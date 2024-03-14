@@ -1,6 +1,21 @@
 *{
-    color: green;
+    color: orange;
 }
-#MENS h4{
+
+#WOMEN{
     color: blueviolet;
+}
+.jai p{
+    color: rgb(234, 15, 161);
+    Font-style: italic; 
+    Font-family: Georgia,Garamond,serif;
+    Font-variant: small-caps;
+    Font-weight: bold; 
+    Font-size: 20px;
+    
+}
+#gana{
+    Background-color: #ffff00; 
+    Background-image: url(./love.jpg); 
+    background: size 0%;
 }
